@@ -1,1 +1,16 @@
-
+{
+  "couple": {
+    "partner1": "Pol",
+    "partner2": "Juani",
+    "first_meeting_date": "",
+    "relationship_start_date": ""
+  },
+  "timeline": [],
+  "letters": [],
+  "calendar_events": [],
+  "couple_goals": [],
+  "habits": {},
+  "weekly_stats": {},
+  "checkins": {},
+  "notifications": []
+}
